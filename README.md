@@ -44,6 +44,9 @@ New Deployment Share Completed:  <br/>
 <img src="https://imgur.com/4JFZIbk.png" height="80%" width="80%" alt="New Deployment Share Steps"/>
 </p>
 
+<img src="https://imgur.com/nehQEX8.png" height="80%" width="80%" alt="New Deployment Share Steps"/>
+</p>
+
 <!--
  ```diff
 - text in red
